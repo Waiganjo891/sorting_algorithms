@@ -1,0 +1,3 @@
+Best Case: O(n) - If the list is already sorted, the algorithm will go through each element once without the need for many swaps.
+Average Case: O(n^2) - In the average case, the algorithm may need to make multiple comparisons and swaps for each element.
+Worst Case: O(n^2) - If the list is in reverse order, the algorithm will need to perform many swaps for each element.
