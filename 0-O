@@ -1,0 +1,3 @@
+In the best case (when the input is already sorted), the time complexity is O(n) because the algorithm only needs to traverse the array once.
+In the average case, the time complexity is O(n^2) because, in general, the algorithm needs to go through the array n times, and for each pass, it goes through the array again.
+In the worst case (when the input is sorted in reverse order), the time complexity is still O(n^2) 2.
