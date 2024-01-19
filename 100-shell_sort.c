@@ -15,7 +15,6 @@ void shell_sort(int *array, size_t size)
 	}
 	while (gap > 0)
 	{
-		printf("Shell Sort: Gap %lu\n", gap);
 		for (i = gap; i < size; i++)
 		{
 			tmp = array[i];
